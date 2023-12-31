@@ -8,7 +8,7 @@ An ecommerce website for a gourmet burger restaurant
 
 ## Live Link
 
-**[Gourmet Burger Restaurant Live Link](https://print-shop.pages.dev/):** https://print-shop.pages.dev/
+**[Gourmet Burger Restaurant Live Link](https://gourmet-burger.pages.dev/):** https://gourmet-burger.pages.dev/
 
 ## Author
 
