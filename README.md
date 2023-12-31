@@ -1,6 +1,6 @@
 # Gourmet Burger Restaurant Project 
 
-![Cover](wp-content/uploads/2023/12/og-gourmetburger-1024x471)
+![Cover](/wp-content/uploads/2023/12/og-gourmetburger-1024x471.jpg)
 
 ## Description
 
